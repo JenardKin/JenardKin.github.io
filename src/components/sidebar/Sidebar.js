@@ -14,7 +14,7 @@ import Timeline from '@material-ui/icons/Timeline';
 import SentimentSatisfied from '@material-ui/icons/SentimentSatisfied';
 
 import AuthorImage from './img/sidebar_img.png'
-import './css/Sidebar.css'
+import './css/sidebar.css'
 import SocialMedia from './js/SocialMedia.js'
 
 function ListItemLink(props){
